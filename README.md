@@ -36,7 +36,7 @@ Implementing algorithms described in Bishop's book, [Pattern Recognition and Mac
 
 - [GitHub Repo](https://github.com/tkazusa/Python_MachineLeaning)
 
-# Papers
+# Papers(工事中)
 Reading parpers list.
 
 読んだ論文のリスト。
