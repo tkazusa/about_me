@@ -1,4 +1,4 @@
-# Sample codes
+# Codes for side projects
 ## Flask taitanic servival prediction app
 This is a web application with a machine learning model for Flask practice. Users put information about passengers in the form, then the ML model return the predicton whether or not passengers would survive the tragedy.
 
