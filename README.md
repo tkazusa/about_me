@@ -10,6 +10,9 @@ Scripts for state space time series analysis, using Kalman filter.
 [GitHub Repo](https://github.com/tkazusa/kalman_filter)
 
 ## CVAE-GAN
+GAN Coding practice.
+
+[Github Repo](https://github.com/tkazusa/CVAE-GAN)
 
 ## Image background extractor as a PCA application
 
