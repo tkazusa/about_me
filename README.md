@@ -12,6 +12,7 @@ Scripts for state space time series analysis, using Kalman filter.
 カルマン・フィルターによる時系列データの予測。
 
 - [GitHub Repo](https://github.com/tkazusa/kalman_filter)
+- [Examples](https://github.com/tkazusa/kalman_filter/blob/master/examples/time%20series%20data%20estimation%20with%20kalman%20filter.ipynb)
 
 ## CVAE-GAN
 GAN Coding practice.
