@@ -6,6 +6,13 @@ Flaskを使ったKaggleタイタニックのSurvival予測アプリケーショ�
 
 - [GitHub Repo](https://github.com/tkazusa/flask_titanic)
 
+## TensorFlow js demo
+Tenforlfow js demo for the google DevFest 2018 Tokyo
+
+Google DevFest 2018 TokyoでのTensorflow js のデモ 
+
+- [Observable](https://beta.observablehq.com/@tkazusa/google-devfest-2018-tokyo)
+
 ## Kalman filter
 Scripts for state space time series analysis, using Kalman filter.
 
