@@ -6,7 +6,7 @@ Flaskを使ったKaggleタイタニックのSurvival予測アプリケーショ�
 
 - [GitHub Repo](https://github.com/tkazusa/flask_titanic)
 
-## TensorFlow js demo
+## Google DevFest 2018 TensorFlow js demo
 Tenforlfow js demo for the google DevFest 2018 Tokyo
 
 Google DevFest 2018 TokyoでのTensorflow js のデモ 
