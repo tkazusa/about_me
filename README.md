@@ -9,7 +9,7 @@ Flaskを使ったKaggleタイタニックのSurvival予測アプリケーショ�
 ## Google DevFest 2018 TensorFlow js demo
 Tenforlfow js demo for the google DevFest 2018 Tokyo
 
-Google DevFest 2018 TokyoでのTensorflow js のデモ 
+Google DevFest 2018 TokyoでのTensorflow js による物体認識のデモ 
 
 - [Observable](https://beta.observablehq.com/@tkazusa/google-devfest-2018-tokyo)
 
