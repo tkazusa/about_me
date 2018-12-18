@@ -11,7 +11,7 @@ Flaskを使ったKaggleタイタニックTutorialでのSurvival予測アプリ�
 ## Google DevFest 2018 TensorFlow js demo
 Tenforlfow js demo for the google DevFest 2018 Tokyo
 
-Google DevFest 2018 TokyoでのTensorflow js による物体認識のデモ 
+Google DevFest 2018 TokyoでのTensorflow js による物体認識のデモ。
 
 - [Observable](https://beta.observablehq.com/@tkazusa/google-devfest-2018-tokyo)
 
@@ -33,7 +33,7 @@ GANの実装を学ぶためにCVAE−GANを改変実装。
 ## Image background extractor as a PCA application
 Scripts for extraction of background from some single point of view images using PCA.
 
-主成分分析を用いた画像の背景抽出についてのサンプルコード
+主成分分析を用いた画像の背景抽出についてのサンプルコード。
 
 - [GitHub Repo](https://github.com/tkazusa/background_extractor)
 - [Examples](https://github.com/tkazusa/background_extractor/blob/master/examples/eigen_background_extractor.ipynb)
@@ -46,10 +46,12 @@ Implementing algorithms described in Bishop's book, [Pattern Recognition and Mac
 - [GitHub Repo](https://github.com/tkazusa/Python_MachineLeaning)
 
 # Speaking
+分析官としての主な登壇履歴です。
+
 - ["受託分析屋がKubeflowを使って思うこと"](https://speakerdeck.com/tkazusa/shou-tuo-fen-xi-wu-gakubeflowwoshi-tutesi-ukoto-kubeflowmeetup-1) at [Kubeflow Meetup #1（Cloud Native Meetup Tokyo #5)](https://cloudnative.connpass.com/event/100600/)
 - ["機械学習どこから手をつけよう？"](https://speakerdeck.com/tkazusa/ji-jie-xue-xi-dokokarashou-wotukeyou-google-devfest-2018-tokyo) at [GDG DevFest 2018 Tokyo](https://tokyo2018.gdgjapan.org/ml)
 - ["Continuous Deployment Platform for ML Models"](https://cloud.withgoogle.com/next18/sf/sessions/session/155946) at [Google Cloud Next '18 | July 24–26 San Francisco](https://cloud.withgoogle.com/next18/sf)
-- ["機械学習システム開発及び運用にかかる不確実性を考慮した要件定義の考察および提案"](https://speakerdeck.com/tkazusa/ji-jie-xue-xi-sisutemukai-fa-ji-biyun-yong-nikakaru-bu-que-shi-wokao-lu-sitayao-jian-ding-yi-falsekao-cha-oyobiti-an) at [第1回機械学習工学ワークショップ（MLSE2018](https://mlxse.connpass.com/event/83360/)
+- ["機械学習システム開発及び運用にかかる不確実性を考慮した要件定義の考察および提案"](https://speakerdeck.com/tkazusa/ji-jie-xue-xi-sisutemukai-fa-ji-biyun-yong-nikakaru-bu-que-shi-wokao-lu-sitayao-jian-ding-yi-falsekao-cha-oyobiti-an) at [第1回機械学習工学ワークショップ（MLSE2018)](https://mlxse.connpass.com/event/83360/)
 
 
 # Reading Papers（工事中）
