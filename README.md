@@ -43,9 +43,15 @@ Implementing algorithms described in Bishop's book, [Pattern Recognition and Mac
 
 - [GitHub Repo](https://github.com/tkazusa/Python_MachineLeaning)
 
-# Papers
+# Speaking
+- ["機械学習どこから手をつけよう？"](https://speakerdeck.com/tkazusa/ji-jie-xue-xi-dokokarashou-wotukeyou-google-devfest-2018-tokyo) at [GDG DevFest 2018 Tokyo](https://tokyo2018.gdgjapan.org/ml)
+- ["受託分析屋がKubeflowを使って思うこと"](https://speakerdeck.com/tkazusa/shou-tuo-fen-xi-wu-gakubeflowwoshi-tutesi-ukoto-kubeflowmeetup-1) at [Kubeflow Meetup #1（Cloud Native Meetup Tokyo #5](https://cloudnative.connpass.com/event/100600/)
+
+# Reading Papers（工事中）
 Reading parpers list.
 
 読んだ論文のリスト。
-
 - [GitHub Repo](https://github.com/tkazusa/papers/issues?q=is%3Aissue+is%3Aclosed)
+
+興味ある論文のリスト。
+- [GitHub Repo](https://github.com/tkazusa/papers/issues)
