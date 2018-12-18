@@ -1,4 +1,6 @@
 # Codes for side projects
+業務外の個人プロジェクトに関するリポジトリのご紹介です。
+
 ## Flask taitanic servival prediction app
 This is a web application with a machine learning model for Flask practice. Users put information about passengers in the form, then the ML model return the predicton whether or not passengers would survive the tragedy.
 
