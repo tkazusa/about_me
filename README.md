@@ -56,6 +56,7 @@ Implementing algorithms described in Bishop's book, [Pattern Recognition and Mac
 
 # Reading Papers（工事中）
 Reading parpers list.
+過去に読んだ論文含めて随時リストアップしていきます。
 
 読んだ論文のリスト。
 - [GitHub Repo](https://github.com/tkazusa/papers/issues?q=is%3Aissue+is%3Aclosed)
